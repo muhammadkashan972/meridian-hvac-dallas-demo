@@ -1,0 +1,6 @@
+{
+  "name": "Meridian HVAC & Refrigeration",
+  "description": "Dallas's premier residential & commercial heating, cooling, and refrigeration experts. 24/7 emergency repair and certified installation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

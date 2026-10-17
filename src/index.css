@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Plus Jakarta Sans", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+  --color-navy: #0F2B5C;
+  --color-navy-dark: #091a38;
+  --color-navy-light: #1A3E7B;
+  --color-flame: #E31B23;
+  --color-flame-hover: #C5131A;
+  --color-ice: #F0F6FC;
+}
+
+html {
+  font-family: var(--font-sans);
+}
